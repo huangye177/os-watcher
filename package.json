@@ -1,0 +1,19 @@
+{
+  "name": "os-watcher",
+  "version": "1.0.0",
+  "description": "OS agent of os-watcher",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "os-watcher"
+  ],
+  "author": "mr.yehuang@gmail.com",
+  "license": "ISC",
+  "dependencies": {
+    "diskspace": "^1.0.3",
+    "lodash": "^4.17.4",
+    "moment": "^2.17.1"
+  }
+}
